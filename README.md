@@ -47,6 +47,10 @@
 ### Manufactoring
 - Manufacturing Company A
 
+### Ecommerce 
+- Astra International (Half .net Framework, Half .net Core)
+- Indomobil International (.Net Framework)
+
 ### Telecommunication
 - Cyberindo Aditama (CBN) (.Net Framework MVC) - JKT
 
@@ -57,7 +61,8 @@
 - Finance Company C (https://img.shields.io/badge/hybrid-2d6c00.svg)
 
 #### Insurance
-- AIA (JKT) ![hybrid](https://img.shields.io/badge/hybrid-2d6c00.svg)
+- AIA (JKT) (.Net Framework, several VB6) ![hybrid](https://img.shields.io/badge/hybrid-2d6c00.svg)
+- Pan Pacific Insurance - JKT 
 
 ### Marketing/Digital Agency
 - Digital Agency A
@@ -72,7 +77,8 @@
 - Aviation C
   
 ### Logistics/Transportation
-- Transportation D
+- Kiat Ananda (.Net Framework, GPS Integrated)
+- Book My Cabin (Half .Net Framework, Half .Net Core)
 
 ### Web3
 - Web3 Company E

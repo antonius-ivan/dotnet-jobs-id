@@ -58,6 +58,9 @@
 - Commerce Company - JKT
 
 ### Finance
+- Bank Danamon / MUFG
+- Bank Mizuho Indonesa
+- Bank Mega
 - Finance Company C (https://img.shields.io/badge/hybrid-2d6c00.svg)
 
 #### Insurance
